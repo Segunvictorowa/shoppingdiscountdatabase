@@ -1,6 +1,30 @@
 .navigation{
     min-height: 80px;
 }
+#share_location{
+	float: left;
+	padding: 6px;
+	margin-top: 8px;
+	margin-right: 20%;
+}
+#share_location button[type=button]{ 
+	background-color: #fff;
+	font-size:12px; 
+	border:0;
+	cursor:pointer;
+}
+#searchItem input[type=text] {
+  float:left;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: 1;
+  font-size: 12px;
+  width:40%;
+  height:20px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
 .advertises_container{
     min-height: 800px;
     background-color: aqua;
