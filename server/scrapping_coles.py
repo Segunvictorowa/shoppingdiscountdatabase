@@ -18,6 +18,10 @@ arg_detail = {
     'saved': 'product-save-value'
 }
 
+source_of_products = {
+    'tab': []
+}
+
 saved_data = {
     'name': [],
     'brand': [],
@@ -46,3 +50,19 @@ for _ in range(len(arg_detail)):
 for _ in saved_data.items():
     print('---------o0o-----------')
     print(_)
+
+
+# Collecting data
+    #
+ 
+# Location
+    # base on VIC, Sydney
+    # 
+
+
+# Sorting
+    # 3 advertisement
+    # most discount
+    # less discount
+# Filtering
+    # 
